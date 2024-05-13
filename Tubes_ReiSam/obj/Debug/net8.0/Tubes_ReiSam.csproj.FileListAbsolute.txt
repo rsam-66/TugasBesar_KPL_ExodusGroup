@@ -1,0 +1,15 @@
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.AssemblyInfoInputs.cache
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.AssemblyInfo.cs
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.csproj.CoreCompileInputs.cache
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.sourcelink.json
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\bin\Debug\net8.0\Tubes_ReiSam.exe
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\bin\Debug\net8.0\Tubes_ReiSam.deps.json
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\bin\Debug\net8.0\Tubes_ReiSam.runtimeconfig.json
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\bin\Debug\net8.0\Tubes_ReiSam.dll
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\bin\Debug\net8.0\Tubes_ReiSam.pdb
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.dll
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\refint\Tubes_ReiSam.dll
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.pdb
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\Tubes_ReiSam.genruntimeconfig.cache
+C:\Users\Reimark Samuel\Documents\GitHub\Tubes_ReiSam\Tubes_ReiSam\obj\Debug\net8.0\ref\Tubes_ReiSam.dll
