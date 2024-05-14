@@ -1,0 +1,15 @@
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\bin\Debug\net8.0\TableDriven.exe
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\bin\Debug\net8.0\TableDriven.deps.json
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\bin\Debug\net8.0\TableDriven.runtimeconfig.json
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\bin\Debug\net8.0\TableDriven.dll
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\bin\Debug\net8.0\TableDriven.pdb
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.AssemblyInfoInputs.cache
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.AssemblyInfo.cs
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.csproj.CoreCompileInputs.cache
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.sourcelink.json
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.dll
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\refint\TableDriven.dll
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.pdb
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\TableDriven.genruntimeconfig.cache
+C:\Users\Reimark Samuel\Documents\GitHub\TableDriven\TableDriven\obj\Debug\net8.0\ref\TableDriven.dll
